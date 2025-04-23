@@ -40,3 +40,40 @@
 .read-the-docs {
   color: #888;
 }
+
+/* Example styles */
+.tour-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+}
+
+.tour-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.tour-details {
+  margin-top: 12px;
+}
+
+.tour-price {
+  font-weight: bold;
+  color: green;
+}
+
+.remove-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.remove-btn:hover {
+  background-color: darkred;
+}
